@@ -1,1 +1,0 @@
-# info-ftp-push
